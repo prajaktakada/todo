@@ -1,5 +1,5 @@
 # todo
-## 1). clone repositor
+## 1). clone repository
 ## 2). cd todo
 ## 3 . npm i
 
